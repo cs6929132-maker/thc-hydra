@@ -14,3 +14,10 @@ make install
 Easy at it can be... You need thc-hydra installed to make this work.
 This is my second gtk program, so I am waiting for a lot of patches :)
 Mail them to snakebyte@gmx.de
+misscutemahi1 INTRODUCTION
+------------
+Number one of the biggest security holes are passwords, as every password
+security study shows.
+This tool is a proof-of-concept code to give researchers and security
+consultants the possibility of showing how easy it would be to gain unauthorized
+access from a remote to a system.
